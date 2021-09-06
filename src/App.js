@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import { Counter } from './features/counter/Counter';
-import styles from './App.js'
+import styles from './App.js' /** Hola*/
 
 import SolicitudCredito from './components/SolicitudCredito';
 
